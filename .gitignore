@@ -349,6 +349,11 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+#Photoshop
+
+*.psd
+
 # My files
 
-/.prettierrc.json
+.prettierrc.json
+
